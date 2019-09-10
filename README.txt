@@ -18,17 +18,16 @@ js > 5- bootstrap.min.js (Imported/Generated)
    > 7- jquery-3.3.1.slim.min.js (Imported/Generated)
 
 fonts > 8- fonts/fontawesome-webfont.woff2 (Imported/Generated)
-      > 9- fonts/fontawesome-webfont.woff2v=4.7.0 (Imported/Generated)
 
-img > 11 -logo.png
-    > 12 -riyadh.png
-    > 13 -khobar.png
-    > 14 -jeddah.png
-    > 15 -neom.png
-    > 16 -logo.png
-    > 17 -logotab.png
+img > 10 -logo.png
+    > 11 -riyadh.png
+    > 12 -khobar.png
+    > 13 -jeddah.png
+    > 14 -neom.png
+    > 15 -logo.png
+    > 16 -logotab.png
 
-18- README.txt
+17- README.txt
 
 
 =================================================================
