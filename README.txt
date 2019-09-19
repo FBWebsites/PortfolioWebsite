@@ -27,6 +27,6 @@ Sourcefiles:
          > logo.png
          > logotab.png
 
-17- README.txt
+6- README.txt
 
 =================================================================
